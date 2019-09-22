@@ -1,0 +1,9 @@
+web:
+    teste:
+        url: "https://shopcart-challenge.4all.com/"
+
+selenium:
+    configuracao:
+        timeout: "120"
+        execucao: "chrome"
+
